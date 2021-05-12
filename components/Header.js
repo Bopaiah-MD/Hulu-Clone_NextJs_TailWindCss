@@ -23,9 +23,11 @@ function Header() {
             <Image
                 className="object-contain"
                 src="https://links.papareact.com/ua6"
+                //src="https://www.thisisanfield.com/wp-content/uploads/PROP150218-018-Liverpool_Press_Conf.jpg"
                 width={200}
                 height={100}
             />
+             {/* <h1 className="">Bop's</h1> */}
         </header>
     )
 }
